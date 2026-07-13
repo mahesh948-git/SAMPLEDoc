@@ -1,4 +1,4 @@
-
+LLD document conent
 DROP TABLE IF EXISTS `tbl_external_topology_api_log`;
 CREATE TABLE `tbl_external_topology_api_log` (
   `id` int NOT NULL AUTO_INCREMENT,
@@ -872,3 +872,4 @@ CREATE TABLE `tbl_rt_range` (
 LOCK TABLES `tbl_rt_range` WRITE;
 UNLOCK TABLES;
 
+conclustion :data 
